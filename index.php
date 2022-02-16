@@ -6,6 +6,6 @@
 	<title>coba git remote</title>
 </head>
 <body><h1>hello world</h1>
-	
+	  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, facilis.</p>
 </body>
 </html>
